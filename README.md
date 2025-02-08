@@ -1,11 +1,10 @@
-### 👋 Hi, I'm Toan!
+# 💫 About Me:
+💡 **Data Enthusiast exploring the world of analytics and business insights**  <br><br>🎓 **Third-year Data Science student** at **University of Economics - Da Nang**  <br><br>📊 Passionate about **Data Analytics (DA) & Business Analysis (BA)**  <br><br>📌 Learning **Power BI, SQL, and Python** to extract meaningful insights from data  <br><br>🚀 On a journey to build **projects, portfolio, and career in data**  <br>  
 
-💡 **Data Enthusiast exploring the world of analytics and business insights**  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🎓 **Third-year Data Science student** at **Da Nang University of Economics - Viet Nam**  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quoctoantran1004/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quoctoantran.1004@gmail.com) 
 
-📊 Passionate about **Data Analytics (DA) & Business Analysis (BA)**  
-
-📌 Learning **Power BI, SQL, and Python** to extract meaningful insights from data  
-
-🚀 On a journey to build **projects, portfolio, and career in data**   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
